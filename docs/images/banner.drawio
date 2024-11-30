@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="25.0.0">
+  <diagram name="Page-1" id="jJ7n3A1it99_hdllu_8M">
+    <mxGraphModel dx="3256" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_tZKHd5Szc6mgcDDZj10-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1567" y="395" width="1480" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="_tZKHd5Szc6mgcDDZj10-7" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#73cedd&quot; style=&quot;font-size: 89px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Gochi+Hand&quot; face=&quot;Gochi Hand&quot;&gt;&lt;b&gt;Advent of code using golang&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-1557" y="436" width="1470" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="8IK2uaPqgHBb4X3T3a-v-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/v2/resize:fit:500/1*vmFSpk9xtpxAHkH7cmt-3Q.png;" vertex="1" parent="1">
+          <mxGeometry x="-927" y="550" width="200" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
