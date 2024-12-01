@@ -23,6 +23,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 ## 💡 Solutions
 
 [📆 Day 1](/solutions/day_1/)
+[📆 Day 2](/solutions/day_2/)
 
 ---
 

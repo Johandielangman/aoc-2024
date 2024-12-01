@@ -17,6 +17,7 @@ import (
 	"path/filepath"
 
 	"github.com/johandielangman/aoc-2024/solutions/day_1"
+	"github.com/johandielangman/aoc-2024/solutions/day_2"
 )
 
 func getInputDir(day string, fileName string) string {
@@ -37,4 +38,6 @@ func main() {
 	day1_1, day1_2 := day_1.Solution(getInputDir("day_1", "input.txt"))
 	fmt.Println("Solution for Day 1.1:", day1_1, "⭐")
 	fmt.Println("Solution for Day 1.2:", day1_2, "⭐")
+	fmt.Println("================ // DAY 2 // ================")
+	fmt.Println(day_2.Solution())
 }
