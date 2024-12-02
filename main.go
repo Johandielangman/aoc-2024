@@ -39,5 +39,7 @@ func main() {
 	fmt.Println("Solution for Day 1.1:", day1_1, "⭐")
 	fmt.Println("Solution for Day 1.2:", day1_2, "⭐")
 	fmt.Println("================ // DAY 2 // ================")
-	fmt.Println(day_2.Solution())
+	day2_1, day2_2 := day_2.Solution(getInputDir("day_2", "input.txt"))
+	fmt.Println("Solution for Day 2.1:", day2_1, "⭐")
+	fmt.Println("Solution for Day 2.2:", day2_2, "⭐")
 }
