@@ -20,6 +20,8 @@ As each location is checked, they will mark it on their list with a **star**. Th
 
 Collect stars by solving puzzles. Two puzzles will be made available on each day in the Advent calendar; the second puzzle is unlocked when you complete the first. Each puzzle grants one star. Good luck!
 
+![meme](/docs/images/advent_meme.png)
+
 ## 💡 Solutions
 
 - [📆 Day 1](/solutions/day_1/day_1.go)
